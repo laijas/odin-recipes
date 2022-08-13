@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project and will be a raw website for a recipe using HTML only. This project is intended to showcase what I have learned from The Odin Project course and HTML's ability to create lists, and links to websites and images.
